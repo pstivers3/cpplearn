@@ -1,0 +1,14 @@
+# Ignore all
+*
+# ignore nested directories
+bin/
+obj/
+Debug/
+.gitignore
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+!/**/ # recursive dirs?

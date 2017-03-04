@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1487574103 source:/home/paul/bin/cpplearn/projects/print_value/main.cpp
+	<iostream>
+
