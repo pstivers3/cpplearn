@@ -3,7 +3,6 @@
 # ignore nested directories
 bin/
 obj/
-Debug/
 .gitignore
 
 # Unignore all with extensions
@@ -11,4 +10,3 @@ Debug/
 
 # Unignore all dirs
 !*/
-!/**/ # recursive dirs?
